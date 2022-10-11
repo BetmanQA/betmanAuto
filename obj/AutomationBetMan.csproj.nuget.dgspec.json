@@ -78,6 +78,10 @@
               "target": "Package",
               "version": "[97.0.4692.7100, )"
             },
+            "TestRail": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
             "WebDriverManager": {
               "target": "Package",
               "version": "[2.12.3, )"

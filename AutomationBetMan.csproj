@@ -16,5 +16,6 @@
     <PackageReference Include="NUnit3TestAdapter" Version="4.2.0"/>
     <PackageReference Include="WebDriverManager" Version="2.12.3"/>
     <PackageReference Include="ExtentReports" Version="4.1.0"/>
+    <PackageReference Include="TestRail" Version="3.2.1"/>
   </ItemGroup>
 </Project>

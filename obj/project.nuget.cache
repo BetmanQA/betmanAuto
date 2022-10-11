@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "aarkEkBa5a7yrpMHYY3A64r2yaJjpM5PKLGqwFUuPrsmaI3IPBDZSOiWKqKm0YbtfqG5GlrAI8IeWVSERbf27Q==",
+  "dgSpecHash": "RbXvyKewFnvPhHOaoDIohK7sbOudxlE1DvejwTLp0w9BvJNT27Z7t5d2vSzp5WNz+gGCWsbek08YbtPm7U/1Ew==",
   "success": true,
   "projectFilePath": "c:\\Users\\Temoso\\Desktop\\clone1\\BetManAuto\\AutomationBetMan.csproj",
   "expectedPackageFiles": [
@@ -193,6 +193,7 @@
     "C:\\Users\\Temoso\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Temoso\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
     "C:\\Users\\Temoso\\.nuget\\packages\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Temoso\\.nuget\\packages\\testrail\\3.2.1\\testrail.3.2.1.nupkg.sha512",
     "C:\\Users\\Temoso\\.nuget\\packages\\webdrivermanager\\2.12.3\\webdrivermanager.2.12.3.nupkg.sha512",
     "C:\\Users\\Temoso\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
