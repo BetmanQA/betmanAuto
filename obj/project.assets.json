@@ -3098,6 +3098,18 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
+      "TestRail/3.2.1": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "10.0.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/TestRail.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/TestRail.dll": {}
+        }
+      },
       "WebDriverManager/2.12.3": {
         "type": "package",
         "dependencies": {
@@ -10002,6 +10014,23 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
+    "TestRail/3.2.1": {
+      "sha512": "c6zSFK9e4KJMBnNlXuF+0Oab6WDcBgVkygO7Bl0M24ZXhvxziXiQ/6FWI9F6MegGJaNc9BRSyPYvVKxFx3o1yA==",
+      "type": "package",
+      "path": "testrail/3.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/TestRail.dll",
+        "lib/net45/TestRail.xml",
+        "lib/net461/TestRail.dll",
+        "lib/net461/TestRail.xml",
+        "lib/netstandard2.0/TestRail.dll",
+        "lib/netstandard2.0/TestRail.xml",
+        "testrail.3.2.1.nupkg.sha512",
+        "testrail.nuspec"
+      ]
+    },
     "WebDriverManager/2.12.3": {
       "sha512": "gP9b5BIPMAzxCvC8EODkKpM0hxrSu7SsjVwvefeV7LiwUQnJ4y8uuH3AsxOTeQfzW8g2zSpCcVRi/O76Co9AgQ==",
       "type": "package",
@@ -10030,6 +10059,7 @@
       "Selenium.Support >= 4.1.0",
       "Selenium.WebDriver >= 4.1.0",
       "Selenium.WebDriver.ChromeDriver >= 97.0.4692.7100",
+      "TestRail >= 3.2.1",
       "WebDriverManager >= 2.12.3"
     ]
   },
@@ -10109,6 +10139,10 @@
           "Selenium.WebDriver.ChromeDriver": {
             "target": "Package",
             "version": "[97.0.4692.7100, )"
+          },
+          "TestRail": {
+            "target": "Package",
+            "version": "[3.2.1, )"
           },
           "WebDriverManager": {
             "target": "Package",

@@ -178,3 +178,4 @@ c:\Users\Temoso\Desktop\clone1\BetManAuto\obj\Debug\net5.0\ref\AutomationBetMan.
 c:\Users\Temoso\Desktop\clone1\BetManAuto\obj\Debug\net5.0\AutomationBetMan.pdb
 c:\Users\Temoso\Desktop\clone1\BetManAuto\obj\Debug\net5.0\AutomationBetMan.genruntimeconfig.cache
 c:\Users\Temoso\Desktop\clone1\BetManAuto\obj\Debug\net5.0\refint\AutomationBetMan.dll
+c:\Users\Temoso\Desktop\clone1\BetManAuto\bin\Debug\net5.0\TestRail.dll
